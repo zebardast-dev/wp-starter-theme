@@ -1,4 +1,4 @@
-# wp-starter-theme
+# Wp Starter Theme
 A Wordpress Stater Theme
 <br>
 <ul>
