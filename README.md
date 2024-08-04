@@ -4,6 +4,7 @@ A Wordpress Stater Theme
 <ul>
   <li>A Basic function.php </li>
   <li>Sass</li>
+  <li>TailwindCss</li>
   <li>Normalize</li>
   <li>Elementor</li>
   <li>Webpack Configuration</li>
